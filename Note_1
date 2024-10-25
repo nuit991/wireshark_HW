@@ -1,0 +1,6 @@
+使用爬蟲那個網站做測試，127.0.0.1
+
+1.打開Wireshark，選擇Loopback，因為是本地網址
+2.開始爬蟲，Wireshark會顯示很多東西
+3.隨便選一個有顯示網址的
+4.右鍵->Flow TCP Stream，裡面會很多Unicode字元，隨便複製一個丟到轉碼網站看看是不是商品內容 https://www.ifreesite.com/unicode-ascii-ansi.htm
