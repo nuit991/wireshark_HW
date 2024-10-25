@@ -4,3 +4,6 @@
 2.開始爬蟲，Wireshark會顯示很多東西
 3.隨便選一個有顯示網址的
 4.右鍵->Flow TCP Stream，裡面會很多Unicode字元，隨便複製一個丟到轉碼網站看看是不是商品內容 https://www.ifreesite.com/unicode-ascii-ansi.htm
+
+
+在最上面工具列，Statistics → Endpoints查看IP以及流量
